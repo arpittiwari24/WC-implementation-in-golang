@@ -22,8 +22,8 @@ Run the Makefile command build
   make build 
 ```
 
-Run the tool using Reader command
+Run the tool using reader command
 
 ```bash
-  Reader file.txt 
+  reader file.txt 
 ```
